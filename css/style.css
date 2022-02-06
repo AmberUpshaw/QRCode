@@ -1,6 +1,6 @@
 body{
   font-family: Outfit, sans-serif;
-  background-color: hsl(212, 45%, 89%);
+  background-color: hsl(212, 45%, 85%);
 }
 
 #main{
@@ -8,10 +8,11 @@ body{
   position: relative;
   top: 60px;
   margin: 0 auto;
-  height: 290px;
+  height: 280px;
   width: 175px;
   border-radius: 10px;
   text-align: center;
+  box-shadow: 0 10px 10px hsl(212, 45%, 80%);
 }
 
 img{
@@ -28,9 +29,16 @@ img{
 #caption h5{
   color: hsl(218, 44%, 22%);
   line-height: 17px;
+  position: relative;
+  top: -10px;
+  font-size: 12px;
 }
 
 #caption p{
-  font-size: 10px;
-  margin-bottom: 20px;
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 12px;
+  color: hsl(212, 45%, 70%);
+  position: relative;
+  top: -19px;
 }
