@@ -5,8 +5,32 @@ body{
 
 #main{
   background-color: hsl(0, 0%, 100%);
+  position: relative;
+  top: 60px;
   margin: 0 auto;
-  height: 275px;
-  width: 135px;
+  height: 290px;
+  width: 175px;
   border-radius: 10px;
+  text-align: center;
+}
+
+img{
+  height: 150px;
+  width: 150px;
+  margin-top: 10px;
+  border-radius: 7px;
+}
+
+#caption{
+  margin: 0 10px;
+}
+
+#caption h5{
+  color: hsl(218, 44%, 22%);
+  line-height: 17px;
+}
+
+#caption p{
+  font-size: 10px;
+  margin-bottom: 20px;
 }
