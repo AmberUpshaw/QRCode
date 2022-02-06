@@ -3,7 +3,7 @@ body{
   background-color: hsl(212, 45%, 89%);
 }
 
-.main{
+#main{
   background-color: hsl(0, 0%, 100%);
   margin: 0 auto;
   height: 250px;
