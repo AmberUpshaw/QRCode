@@ -4,8 +4,10 @@ body{
 }
 
 .main{
-  margin: 0 auto;
-  height: 250px;
-  width: 125px;
   background-color: hsl(0, 0%, 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
 }
