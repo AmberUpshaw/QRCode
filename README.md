@@ -13,15 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot_qrcode.png)
+![](./screenshot.png)
 
 
 ### Links
@@ -34,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
+- CSS Box Model
 
 
 ### What I learned
@@ -60,7 +57,7 @@ I'd like to highlight the CSS I used (maybe not the most typical approach) for c
 
 ### Continued development
 
-This project is desktop/laptop only, for now. As my knowledge grows, the app will be more responsive, including a more mobile friendly version.
+This project is desktop/laptop only, for now. As my knowledge grows, the app will be more responsive, including a mobile friendly version.
 
 ### Useful resources
 
