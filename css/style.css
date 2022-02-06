@@ -2,3 +2,10 @@ body{
   font-family: Outfit, sans-serif;
   background-color: hsl(212, 45%, 89%);
 }
+
+.main{
+  margin: 0 auto;
+  height: 300px;
+  width: 150px;
+  background-color: hsl(0, 0%, 100%);
+}
